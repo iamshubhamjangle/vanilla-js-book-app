@@ -1,6 +1,6 @@
 ## About
 
-Project is live at:
+Project is live at: https://iamshubhamjangle.github.io/vanilla-js-book-app/?#
 
 This project is made with Vanilla Javascript using the ES6 features (class, spread, rest)
 
